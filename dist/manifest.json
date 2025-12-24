@@ -1,0 +1,5 @@
+{
+  "requiredSdkVersion": "~0.0.59",
+  "name": "MediaPopoutPlugin",
+  "javascriptEntrypointUrl": "MediaPopoutPlugin.js"
+}
